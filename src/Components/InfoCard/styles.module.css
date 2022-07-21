@@ -1,0 +1,90 @@
+.infoBox {
+    background-color: #E2E2E2;
+
+    width: 570px;
+    height: 680px;
+    border-radius: 16px;
+
+    padding: 40px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.userInfo {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+}
+
+.userPhotoAndNameBox {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 30px;
+}
+
+.userProfileImage {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.userName {
+    font-weight: 900;
+    font-size: 2.8125rem;
+}
+
+.locationBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4px;
+}
+
+.userLocation {
+    font-weight: 900;
+    color: #5c5b5b;
+}
+
+.bioText {
+    color: #5c5b5b;
+    font-weight: 500;
+    font-size: 1.2rem;
+
+    text-align: center;
+}
+
+.userStats {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+.userStats div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background-color: #ededed;
+    border-radius: 12px;
+    padding: 10px;
+    gap: 5px;
+
+    width: 150px;
+}
+
+.userStats div > span:first-child {
+    font-weight: 900;
+    font-size: 1.4rem;
+}
+
+.statNumber {
+    font-size: 1.2rem;
+    font-weight: 600;
+
+}
