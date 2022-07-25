@@ -1,9 +1,6 @@
 <div id="top"></div>
 
-<br />
-
 <h3 align="center">Github Explorer</h3>
-
   <p align="center">
     Github profiles API fetch tool
 </div>
