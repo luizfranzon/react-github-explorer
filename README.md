@@ -5,6 +5,8 @@
     Github profiles API fetch tool
 </div>
 
+<br>
+
 <!-- ABOUT THE PROJECT -->
 <img src="./assets/screenshot.png">
 
